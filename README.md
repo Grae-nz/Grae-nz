@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kia Ora, I'm Graeme
 
-<!--
-**Grae-nz/Grae-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Development student in their final year at Ara Institute of Canterbury.
 
-Here are some ideas to get you started:
+I am passionate about Full Stack Development as I enjoy variety and the different ways I get to be creative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+- [Kiki Endless Runner](https://github.com/Grae-nz/Portfolio/tree/main/Kiki%20Endless%20Runner) - Endless Runner game
+- [Agora](https://github.com/Grae-nz/Portfolio/tree/main/Agora) - E-commerce website 
+
+## Contact
+Grae-@hotmail.com
+www.linkedin.com/in/graeme-w-19146435a
+
