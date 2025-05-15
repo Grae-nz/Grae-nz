@@ -7,10 +7,11 @@ I am passionate about Full Stack Development as I enjoy variety and the differen
 
 ## Portfolio Projects
 - [Kiki Endless Runner](https://github.com/Grae-nz/Portfolio/tree/main/Kiki%20Endless%20Runner) - Endless Runner game
+- [The-Blue-Zone](https://github.com/Grae-nz/Portfolio/tree/main/The-Blue-Zone) - Prostate Awareness Website 
 - [Agora](https://github.com/Grae-nz/Portfolio/tree/main/Agora) - E-commerce website
 - [ChessMazeGame](https://github.com/Grae-nz/Portfolio/tree/main/ChessMazeGame) - Chess Maze Game level designer 
 
 ## Contact
 Grae-@hotmail.com
-www.linkedin.com/in/graeme-w-19146435a
+www.linkedin.com/in/graemewhitenz
 
