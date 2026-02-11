@@ -1,7 +1,7 @@
 # Kia Ora, I'm Graeme
 
 ## About Me
-I'm a Software Development.
+I'm a Software Developer.
 
 I am passionate about Full Stack Development as I enjoy variety and the different ways I get to be creative.
 
